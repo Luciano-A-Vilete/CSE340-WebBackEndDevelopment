@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "dpg-d0fbaq95pdvs73c3f8c0-a.oregon-postgres.render.com",
+            "driver": "PostgreSQL",
+            "name": "cse340",
+            "database": "cse340lav",
+            "username": "cse340lav",
+            "connectString": "host=dpg-d0fbaq95pdvs73c3f8c0-a.oregon-postgres.render.com port=5432 dbname=cse340lav user=cse340lav password=xxxxxxx connect_timeout=10 sslmode=require"
+        }
+    ]
+}
